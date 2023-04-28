@@ -16,4 +16,4 @@ To run the script, follow these steps:
   3. Navigate to the directory containing the saved file.
   4. Run the following command: python conways_game_of_life.py.
 
-This command will execute the script and run Conway's Game of Life simulation using the parameters defined in the run_game_of_life() function call at the end of the script.
+This command will execute the script and run Conway's Game of Life simulation using the parameters defined in the run_game_of_life() function call at the end of the script. 😊 
